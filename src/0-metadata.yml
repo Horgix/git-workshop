@@ -1,0 +1,12 @@
+---
+title:  'Git Training'
+author:
+- Alexis "Horgix" Chotard
+tags: [xebia, training, git, photobox, formation]
+abstract: |
+  This document is the training material for the 3 hours training on git
+  given at Photobox
+header-includes:
+  # Remove image and table captions
+  - \renewcommand \caption [2][]{}
+...
